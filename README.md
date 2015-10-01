@@ -12,3 +12,5 @@ Just open a few tabs and watch how the active is always on the first position.
 
 ## HELP
 Don't know how to put on package manager :(
+
+## [MIT Licensed](https://opensource.org/licenses/MIT)
