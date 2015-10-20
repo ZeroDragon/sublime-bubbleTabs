@@ -9,6 +9,10 @@ So you'll always get the most recent used tab on the first index, the second on 
 ### Package control: soon (maybe)
 
 ### Package control (manual)
+- ```Shift-CMD-P``` then select "Package Control: Add Repository"  
+- Now paste this git repository URL https://github.com/ZeroDragon/sublime-bubbleTabs.git  
+- ```Shift-CMD-P``` and then "Package Control: Install Package"  
+- Select **Bubble Tabs**
 
 ##Usage
 Just open a few tabs and watch how the active is always on the first position.
