@@ -17,7 +17,7 @@ So you'll always get the most recent used tab on the first index, the second on 
 ### Manual
 Download/clone this repo into **packages** folder
 
-##Usage
+## Usage
 Just open a few tabs and watch how the active is always on the first position.
 
 ## HELP
